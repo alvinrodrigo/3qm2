@@ -8,9 +8,9 @@
     let name = "<b> Alvin </b>"
     let word5 = "<b><i> **alchemist of the browser**, </i></b>"
     let word6 = "<b> keyboard </b>"
-    let word7 = "<b> wand, "
-    let word8 = "<b> pages "
-    let word9 = "<b> Painting "
+    let word7 = "<b> wand, </b>"
+    let word8 = "<b> pages </b>"
+    let word9 = "<b> Painting </b>"
 
     title3 = "<b>## II. The HTML Symphony</b>"
     let word10 = "<b> fingers </b>"
@@ -30,7 +30,7 @@
     let word20 = "<b> magic </b>"
     let word21 = "<b><i> **JavaScript spells**, </i></b>"
     let word22 = "<b> will, </b>"
-    let word23 = "<b> Forms "
+    let word23 = "<b> Forms </b>"
     let word24 = "<b> animation propel. </b>"
 
     title6 = "<b>## V. The Debugging Sage</b>"
